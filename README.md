@@ -4,3 +4,4 @@ A project (discontinued) in parter with LABI (IFTM-CAUPT) that transcript an ima
 feel free to use it as you want it (nothing illegal) and ask me questions about.
 
 the project is no longer under development because LABI owned a proper CNC and no longer we need this
+Feel free to ask me the math under the code
